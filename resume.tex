@@ -5,11 +5,9 @@
 \usepackage[margin=1in]{geometry}
 
 \titleformat{\section}{\bfseries\Large}{}{0em}{}[\titlerule]
-
-\titleformat{\subsection}{\bf\large}{}{0em}{}
-
+\titleformat{\subsection}{\large}{}{0em}{}
+\titlespacing{\subsection}{0em}{0.25em}{0.5em}
 \titleformat{\subsubsection}[runin]{\bf}{}{0em}{}
-
 \titlespacing{\subsubsection}{0em}{0.25em}{1em}
 
 \renewcommand{\maketitle}{
@@ -18,10 +16,12 @@
 
 \vspace{.25em}
 
-nicholas.carabio@gmail.com, Phone: (484)-319-7076
-
+nicholas.carabio@gmail.com $|$ (484)-319-7076
 \end{center}
 }
+
+\setlength{\parindent}{0pt}
+\newcommand{\bd}{\textbf}
 
 \begin{document}
 
@@ -32,38 +32,39 @@ nicholas.carabio@gmail.com, Phone: (484)-319-7076
 
 \section{EDUCATION}
 
-\subsection{\bf{Pennsylvania State University}}
-B.S. in Economics, Fall 2023 - Fall 2026
+\subsection{\textbf{Pennsylvania State University} \hfill \textit{2023 - 2027}}
+B.S, Physics and B.S, Computer Science
 
-\subsubsection{Major coursework}
-\subsubsection{Elective coursework}
-Math (Calculus III, Matrices) $\cdot$ Statistics (Elementary Mathematical Statistics) $\cdot$ Computer Science (Object Oriented Programming)
-
-\section{HONORS}
-\subsection{Jane E. Cooper Honors Scholar}
-Fall 2023 - Spring 2025
+\section{WORK EXPERIENCE}
 
 \section{PROJECTS}
-GitHub: https://github.com/nickChivas
+\subsection{\bd{carab.io}}
+\begin{itemize}
+    \item Built a personal website with HTML and CSS for blogging, archiving lecture notes, coursework, research, and presentations.
+\end{itemize}
 
-\subsection{Personal Website}
+\section{RESEARCH}
+
+\section{HONORS}
+\subsection{\textbf{Jane E. Cooper Honors Scholar} \hfill \textit{2023 - 2025}}
+Member of the Penn State Brandywine campus honors program.
 
 \section{TECHNICAL SKILLS}  
 
-\subsection{Programming}
+\subsection{\textbf{Programming languages}}
 
-Python, Java
+\subsubsection{Coding and web development}
+C, Python, Java, HTML, CSS
 
-\subsection{Markup}
-
+\subsubsection{Markup}
 \LaTeX , Markdown
 
-\subsection{Productivity and multimedia software}
+\subsection{\textbf{Productivity and multimedia software}}
 
 \subsubsection{Microsoft Office}
 Microsoft Word, Microsoft Excel, Microsoft Powerpoint
 
 \subsubsection{Adobe Creative Cloud}
-Adobe Photoshop, Adobe Premier Pro
+Adobe Photoshop, Adobe Premier Pro, Adobe Illustrator
 
 \end{document}
