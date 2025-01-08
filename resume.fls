@@ -35,12 +35,9 @@ INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tf
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 OUTPUT resume.pdf
 INPUT C:\Users\nicho\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT resume.aux
-INPUT C:\Users\nicho\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\nicho\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\nicho\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

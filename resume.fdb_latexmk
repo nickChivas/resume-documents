@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1733808403.34426 "c:/Users/nicho/Documents/Resume Documents/resume.tex" "resume.pdf" "resume" 1733808403.74178 0
-  "C:/Users/nicho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733807009 82686 2381c3433487640bf26aa76a10db7eb2 ""
-  "C:/Users/nicho/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1726802170 11548 3d1b7d744f62d65b8f3569350f1f5960 ""
+["pdflatex"] 1735496519.34334 "c:/Users/nicho/Documents/Resume Documents/resume.tex" "resume.pdf" "resume" 1735496519.68059 0
+  "C:/Users/nicho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733977420 82686 2381c3433487640bf26aa76a10db7eb2 ""
   "C:/Users/nicho/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732225154 11948198 5a5cd5e7bc088ef66ea178e071641578 ""
-  "C:/Users/nicho/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -25,9 +23,9 @@
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/nicho/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "c:/Users/nicho/Documents/Resume Documents/resume.tex" 1733808402 1694 8d26d22efe4bdf73c3f174023fdf8fae ""
-  "resume.aux" 1733808403 1785 db8751d6f281b6f00641c21377fee17f "pdflatex"
-  "resume.tex" 1733808402 1694 8d26d22efe4bdf73c3f174023fdf8fae ""
+  "c:/Users/nicho/Documents/Resume Documents/resume.tex" 1735496518 1373 89e0a2d22119ff5b5c28f7d2caaf0001 ""
+  "resume.aux" 1735496519 1399 b69dc362174160e40ff9f2577bcbe590 "pdflatex"
+  "resume.tex" 1735496518 1373 89e0a2d22119ff5b5c28f7d2caaf0001 ""
   (generated)
   "resume.aux"
   "resume.log"
